@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @neuroady
-- 👀 I’m interested in **Computational Neuroscience and Machine Learning**
-- 🌱 I’m currently learning Advance Python and Bash
+- 💻 I’m involved in **Computational Neuroscience, Machine Learning, and Software development**
+- 🚸 I’m currently learning **PyQT, Advance Python and Bash scripting** | Tennis
+- 🚴 I like: Bicycling, Hiking, Formula 1, Progressive rock & Metal
 
 
 
